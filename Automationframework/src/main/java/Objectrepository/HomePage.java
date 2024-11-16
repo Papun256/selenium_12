@@ -7,6 +7,7 @@ package Objectrepository;
 
 	public class HomePage
 	{
+        // Home page calls is modified in github
 	@FindBy(linkText = "Log out")
 	private WebElement logoutbutton;
 
