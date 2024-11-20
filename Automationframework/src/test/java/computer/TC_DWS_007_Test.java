@@ -15,7 +15,7 @@ import Objectrepository.HomePage;
 	
 
 	@Listeners(ListenerUtility.class)
-	public class TC_DWS_007 extends BaseClass
+	public class TC_DWS_007_Test extends BaseClass
 	{
 	@Test
 	public void clickOnComputers() throws EncryptedDocumentException, IOException

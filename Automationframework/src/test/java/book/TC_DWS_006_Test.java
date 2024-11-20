@@ -12,7 +12,7 @@ import GenericUtility.BaseClass;
 import Objectrepository.HomePage;
 
 
-	public class TC_DWS_006 extends BaseClass
+	public class TC_DWS_006_Test extends BaseClass
 	{
 	@Test
 	public void clickOnBooks() throws EncryptedDocumentException, IOException

@@ -12,7 +12,7 @@ import Objectrepository.HomePage;
 
 	
 
-	public class TC_DWS_009 extends BaseClass
+	public class TC_DWS_009_Test extends BaseClass
 	{
 	@Test
 	public void clickOnElectronics() throws EncryptedDocumentException, IOException

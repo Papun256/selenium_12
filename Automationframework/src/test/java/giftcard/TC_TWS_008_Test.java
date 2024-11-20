@@ -10,7 +10,7 @@ import Objectrepository.HomePage;
 
 	
 
-	public class TC_TWS_008 extends BaseClass
+	public class TC_TWS_008_Test extends BaseClass
 	{
 	@Test
 	public void clickOnGiftCards() throws IOException
